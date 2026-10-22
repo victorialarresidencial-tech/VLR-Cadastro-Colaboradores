@@ -1,0 +1,6 @@
+{
+  "name": "Victoria Lar Residencial - Cadastro de Funcionários",
+  "description": "Sistema de cadastro, gestão e ficha funcional de funcionários e colaboradores para a Victoria Lar Residencial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
