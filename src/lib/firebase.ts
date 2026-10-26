@@ -14,7 +14,7 @@ import {
 } from 'firebase/firestore';
 import { Funcionario } from '../types/employee';
 
-export const DEFAULT_PROJECT_ID = 'cadastro-de-pacientes-be77f';
+export const DEFAULT_PROJECT_ID = 'victoria-lar-residencial';
 
 const STORAGE_KEY_API_KEY = 'victoria_firebase_api_key';
 const STORAGE_KEY_APP_ID = 'victoria_firebase_app_id';
